@@ -7,14 +7,13 @@ tested on Windows 10 and Windows 11 on RTX 4090 cards, RTX 20xx cards
 
 
 
-#RUN
+# RUN
 
 ```
 C:\>kangaroo_address.exe -t 0 -b 43 -gpu -g 256,256 -s 1PiFuqGpG8yGM5v6rNHWS3TjsG6awgEGA1
 kangaroo_address v4.1
- Search For: 12jbtzBb54r97TCwW3G1gCFoumpckRAPdY [Compressed]
- Started on: Sun Jan 22 20:26:13 2023
- Randomness: New Random Keys Every 30 Mkeys
+ Search For: 1PiFuqGpG8yGM5v6rNHWS3TjsG6awgEGA1 [Compressed]
+ Started on: Wed Aug 9 02:08:55 2023
   Beg Range: 40000000000 (43 bit)
   End Range: 7ffffffffff (43 bit)
   Rng Width: 3FFFFFFFFFF (42 bit)
