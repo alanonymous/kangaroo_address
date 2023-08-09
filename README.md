@@ -9,6 +9,9 @@ tested on Windows 10 and Windows 11 on RTX 4090 cards, RTX 20xx cards
 
 # RUN
 
+![screenshot](https://github.com/alanonymous/kangaroo_address/assets/141680930/a3ec4133-d1d0-4e17-a650-f52c0cccc99a)
+
+
 ```
 C:\>kangaroo_address.exe -t 0 -b 43 -gpu -g 256,256 -s 1PiFuqGpG8yGM5v6rNHWS3TjsG6awgEGA1
 kangaroo_address v4.1
