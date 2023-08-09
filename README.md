@@ -47,3 +47,4 @@ GPU: GPU #0 NVIDIA GeForce RTX 4090
 [00:00:23:08 Run Time][Total 2068.89 MK/s][GPU 2068.89 MK/s][Keys 117,846,349,102,375][Found 0][Rekeys: 0]
 
 ```
+Expected time 1 month and 2 weeks on 30×RTX4090
