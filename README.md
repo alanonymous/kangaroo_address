@@ -1,6 +1,6 @@
 # kangaroo_address
 kangaroo_address
-bitcrack_keyhunt_Kangaroo
+bitcrack keyhunt
 
 This program is really only intended for the BTC Challenge
 
